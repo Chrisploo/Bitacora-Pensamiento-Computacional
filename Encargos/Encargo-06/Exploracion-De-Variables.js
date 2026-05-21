@@ -17,7 +17,7 @@ function draw() {
   
 }
 
-
+// dejo el archivo porsiaca     https://editor.p5js.org/ChrisitianPLO/sketches/WfCMrXIcy
 
 
 
