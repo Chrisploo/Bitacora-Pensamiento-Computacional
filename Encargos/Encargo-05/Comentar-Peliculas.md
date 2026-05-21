@@ -1,5 +1,5 @@
-## episodios: Shut up and dance, E3 S3  
-The Entire History of You, E3 S1  
+## episodios: Shut up and dance, E3 S3 y The Entire History of You, E3 S1   
+
   
 En el episodio Shut Up and Dance seguimos la historia de un joven llamado Kenny, quien al principio parece   
 ser una persona inocente que es abusada y manipulada por hackers anónimos. Sin embargo, al final del episodio   
