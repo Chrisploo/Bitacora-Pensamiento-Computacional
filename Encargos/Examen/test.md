@@ -22,7 +22,7 @@ Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Pu
 
 ### Integrantes
 
-Estudiante A [usuarioGithub](https://github.com/usuarioGithub)
+Christian Petit-Laurent Ortuzar [Chrisploo](https://github.com/Chrisploo)
 
 Estudiante B [usuarioGithub](https://github.com/usuarioGithub)
 
