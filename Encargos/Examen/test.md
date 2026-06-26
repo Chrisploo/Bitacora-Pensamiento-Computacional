@@ -11,6 +11,7 @@ Enciclopedia de Hades
 ### Referencia de origen / bibliografía
 
 Videojuego Hades (2020) desarrollado por SuperGiant Games
+
 Informacion recopilada de la wiki oficial del juego: [Hades Wiki](https://hades.fandom.com/wiki/Hades_Wiki)
 
 ### Imagen de referencia de proyecto
