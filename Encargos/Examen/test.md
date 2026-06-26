@@ -22,11 +22,11 @@ Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Pu
 
 ### Integrantes
 
-Christian Petit-Laurent Ortuzar [Chrisploo](https://github.com/Chrisploo)
+Christian Petit-Laurent [Chrisploo](https://github.com/Chrisploo)
 
-Estudiante B [usuarioGithub](https://github.com/usuarioGithub)
+Catalina Vergara [SoyTany](https://github.com/SoyTany)
 
-Estudiante c [usuarioGithub](https://github.com/usuarioGithub)
+Florencia Valencia [Fuyu](https://github.com/zxxnie)
 
 ### Enlace de p5.js 
 
