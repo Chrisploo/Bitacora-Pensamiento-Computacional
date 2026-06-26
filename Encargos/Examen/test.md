@@ -1,4 +1,4 @@
-## Examen
+# Examen de Pensamiento Computacional
 
 ## Link de web pública (github pages)
 
