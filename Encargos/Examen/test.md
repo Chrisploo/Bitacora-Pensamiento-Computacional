@@ -1,8 +1,4 @@
-# Clase 10
-
-## Plantilla examen
-
-Haz click  en README.md, luego en `raw` para ve código base de plantilla
+## Examen
 
 ## Link de web pública (github pages)
 
@@ -10,11 +6,12 @@ Haz click  en README.md, luego en `raw` para ve código base de plantilla
 
 ### Título del proyecto
 
-Nombre de proyecto
+Enciclopedia de Hades
 
 ### Referencia de origen / bibliografía
 
-Haikú, poema, película, etc. Siempre nombrar autor y año.
+Videojuego Hades (2020) desarrollado por SuperGiant Games
+Informacion recopilada de la wiki oficial del juego: [Hades Wiki](https://hades.fandom.com/wiki/Hades_Wiki)
 
 ### Imagen de referencia de proyecto
 
