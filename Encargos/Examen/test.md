@@ -32,7 +32,9 @@ Florencia Valencia [Fuyu](https://github.com/zxxnie)
 
 ### Relato inicial
 
-Cuenta acá el relato de origen de tu proyecto. Ej, Alicia está con un conejo, luego va a un viaje psicodélico
+La historia sigue a Zagreo, príncipe del Inframundo e hijo de Hades, dios del Inframundo, y Perséfone, diosa de la primavera. Al nacer, Zagreo llegó al mundo sin vida debido a una profecía que dictaba que Hades nunca tendría un heredero, lo que llevó a Perséfone a marcharse completamente desolada. Sin embargo, Nyx, la encarnación de la noche, logró devolverle la vida y lo crió junto a Hades, aunque ambos ocultaron la verdad sobre su origen. Todo cambió cuando Zagreo encontró una carta de su madre, Perséfone, en la que explicaba que había abandonado el Inframundo por el profundo dolor que sentía. Molesto por los secretos de su familia y decidido a descubrir la verdad, Zagreo emprende la misión de escapar del Inframundo y alcanzar la superficie, sin importar cuántas veces muera ni cuánto tiempo le tome.
+
+Contamos la historia a través de las descripciones de los múltiples personajes, jefes y objetos. Cada uno aporta información que ayuda a comprender la historia en su totalidad.
 
 ### Storyboard
 
